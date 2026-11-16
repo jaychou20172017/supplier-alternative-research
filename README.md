@@ -1,3 +1,5 @@
+中文 | [English](README.en.md)
+
 # 备选原厂开发 Skill
 
 将整个 `supplier-alternative-research` 文件夹复制到目标 Agent 的技能目录；也可以解压同名 zip，确保解压后得到 `supplier-alternative-research/SKILL.md` 和完整的 `references/` 目录。不要只复制 `SKILL.md`，因为它引用了参考文件。文件夹内使用相对路径，没有绑定某台电脑的路径、专有 MCP 或 API 密钥。
@@ -13,3 +15,14 @@ Codex 的常见用户级位置是 `~/.codex/skills/supplier-alternative-research
 企业信息调查可参考当前 Agent 可访问的天眼查、企查查等平台，或用户提供的页面截图、导出资料。报告会注明平台、对应企业主体、查询日期和数据口径，并优先用原始登记或认证来源核验关键结论。此 Skill 不附带第三方数据库账号或权限，也不会自动联系供应商。
 
 在新电脑上首次使用时，按 [跨 Agent 验收](references/acceptance-check.md)先运行 [模拟分类练习](examples/acceptance-case.md)，再用一份非保密真实规格书试跑。真实试跑需检查原厂链接、中文 `.docx` 的图表，以及 Word、`关键参数证据.csv` 和可选对比 CSV 的候选数、排序、关键数值是否一致。模拟练习是虚构数据，不是实际供应商研究结论；无需复制本项目的具体物料报告或本机脚本。
+
+
+## 许可 / License
+
+Copyright (c) 2026 Zhou Jie。非商业用途及企业内部使用免费；对外销售、收费服务、商业产品集成及商业托管等须事先取得书面授权。联系：[3504264104@qq.com](mailto:3504264104@qq.com)。
+
+Noncommercial and internal business use are free. External sales, paid services, commercial product integration and commercial hosting require prior written authorization from Zhou Jie.
+
+完整条款 / Full terms: [LICENSE](LICENSE). [English translation](LICENSE.en.md)（中文准据 / Chinese governs）. [商业授权 / Commercial licensing](COMMERCIAL-LICENSE.md).
+
+本许可仅覆盖权利人有权许可的项目内容，不改变第三方组件许可。新增许可不追溯撤销先前已合法取得的其他许可；历史发布包不会自动更新。This license does not replace third-party terms or revoke earlier lawfully granted rights; old release archives are not automatically updated.

@@ -1,3 +1,5 @@
+[English](en/decision-rules.md)
+
 # 候选准入、证据与替代难度
 
 ## 清单分层

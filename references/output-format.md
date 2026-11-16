@@ -1,3 +1,5 @@
+[English](en/output-format.md)
+
 # Word 报告与 CSV 字段
 
 ## Word 研究报告（主要交付物）
